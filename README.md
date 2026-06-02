@@ -308,7 +308,6 @@ Uptime: 2026-ongoing   Memory: ∞ (curiosity never runs out)
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-yashvendranirwan--alt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvendranirwan-alt)
-[![Email](https://img.shields.io/badge/Email-yashvendranirwan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvendranirwan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20↗-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://yashvendranirwan-alt.github.io/Portfolio-site/)
 
 </div>
