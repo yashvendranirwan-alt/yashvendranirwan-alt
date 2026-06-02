@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0f,50:0d1117,100:0a0a0f&text=Yashvendra%20Singh&fontSize=52&fontColor=58a6ff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Open%20Source%20%7C%20Neural%20NeXxus&descColor=8b949e&descSize=17&fontAlignY=40&descAlignY=62&stroke=58a6ff&strokeWidth=1"/>
