@@ -331,3 +331,16 @@ Uptime: 2026-ongoing   Memory: ∞ (curiosity never runs out)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0f,50:0d1117,100:0a0a0f&animation=fadeIn&fontColor=58a6ff"/>
 
 </div>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yashvendranirwan-alt/yashvendranirwan-alt/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yashvendranirwan-alt/yashvendranirwan-alt/output/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yashvendranirwan-alt/yashvendranirwan-alt/output/dist/github-contribution-grid-snake.svg"
+    alt="Snake animation" />
+</picture>
+
+<!-- Animated Stats -->
+<img src="https://raw.githubusercontent.com/yashvendranirwan-alt/yashvendranirwan-alt/output/dist/metrics.svg"
+  alt="Animated GitHub Metrics" />
