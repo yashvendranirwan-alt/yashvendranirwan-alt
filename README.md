@@ -263,7 +263,7 @@ Uptime: 2026-ongoing   Memory: ∞ (curiosity never runs out)
 </div>
 
 ---
-
+<h1> watch what happen with my streak</h1>
 ## `$ watch -n 1 github-snake`
 
 <div align="center">
